@@ -5,4 +5,4 @@
  * Date: 2018/4/9
  * Time: 15:33
  */
-echo 'hello word1!';
+echo 'hello word2!';
